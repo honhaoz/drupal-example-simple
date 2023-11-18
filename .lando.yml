@@ -1,0 +1,4 @@
+name: norton-owners-club
+recipe: drupal8
+config:
+  webroot: web
